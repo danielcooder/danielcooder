@@ -1,18 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
-<h1>
-    <a href="https://github.com/danielcooder">
-        <span> 😄 Daniel Cooder</span><br>
-    </a>
-</h1>
-    <a href="https://git.io/typing-svg">
-    
 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png" style="border: 1px solid #000080;">
+# 😄 Daniel Cooder
 
+Sou um administrador com uma ampla experiência profissional. Minha trajetória inclui anos de trabalho em diversas áreas, desde o financeiro até vendas e documentação técnica. Tive a oportunidade de participar ativamente em licitações e projetos desafiadores que me ensinaram valiosas habilidades de trabalho em equipe e gestão.
 
-</h1>
-Estudando Desenvolvimento Web FullStack
+Recentemente, decidi embarcar em uma transição de carreira para o mundo da tecnologia. Costruindo uma base em HTML, CSS e JavaScript, estou dando os primeiros passos na criação de sites e no desenvolvimento web. A tecnologia é um campo em constante evolução, e estou entusiasmado em fazer parte dessa revolução.
 
+Minha experiência anterior me trouxe habilidades valiosas em organização, resolução de problemas e comunicação eficaz, que considero fundamentais no ambiente de tecnologia. Estou comprometido em aprender e crescer nessa jornada, aproveitando ao máximo as oportunidades que a tecnologia tem a oferecer.
+
+Estou empolgado com o desafio de combinar minha experiência anterior com minha paixão pela tecnologia para criar soluções inovadoras e impactantes.
+---
 
 Conecte-se comigo.
 
@@ -32,17 +29,10 @@ Ferramentas
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 GitHub Status 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=danielcooder&theme=cobalt&locale=pt_BR)](https://git.io/streak-stats)
 
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
-
-
-### Hi there 👋
-
-
