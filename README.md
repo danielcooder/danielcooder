@@ -39,11 +39,10 @@ GitHub Status
 [![GitHub Streak](https://streak-stats.demolab.com?user=danielcooder&theme=cobalt&locale=pt_BR)](https://git.io/streak-stats)
 
 
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
 
 
 ### Hi there 👋
 
-<div align="center">  
-  <img align="center" alt="snake-game" src="https://github.com/danielcooder/danielcooder/blob/output/github-contribution-grid-snake.svg" />
-</div>
+
