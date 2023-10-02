@@ -9,7 +9,9 @@ Recentemente, decidi embarcar em uma transição de carreira para o mundo da tec
 Minha experiência anterior me trouxe habilidades valiosas em organização, resolução de problemas e comunicação eficaz, que considero fundamentais no ambiente de tecnologia. Estou comprometido em aprender e crescer nessa jornada, aproveitando ao máximo as oportunidades que a tecnologia tem a oferecer.
 
 Estou empolgado com o desafio de combinar minha experiência anterior com minha paixão pela tecnologia para criar soluções inovadoras e impactantes.
----
+
+
+
 
 Conecte-se comigo.
 
