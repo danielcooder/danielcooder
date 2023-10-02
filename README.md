@@ -21,9 +21,6 @@ As Linguagens de Programação que estou trabalhando no momento são:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,git,github,angular,vscode,nodejs)](https://skillicons.dev)
 
-Habilidades
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danielcooder&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 Ferramentas
 
