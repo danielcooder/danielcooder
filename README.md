@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
 
-# 😄 Daniel Cooder
+# 😄 Daniel de Oliveira
 
 Sou um administrador com uma ampla experiência profissional. Minha trajetória inclui anos de trabalho em diversas áreas, desde o financeiro até vendas e documentação técnica. Tive a oportunidade de participar ativamente em licitações e projetos desafiadores que me ensinaram valiosas habilidades de trabalho em equipe e gestão.
 
