@@ -30,8 +30,15 @@ Ferramentas
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
+ ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danielcooder&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 GitHub Status 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=danielcooder&theme=cobalt&locale=pt_BR)](https://git.io/streak-stats)
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcooder&show_icons=true&theme=transparent) 
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
+
+
