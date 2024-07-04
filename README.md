@@ -2,13 +2,15 @@
 
 # 😄 Daniel de Oliveira
 
-Sou um administrador com uma ampla experiência profissional. Minha trajetória inclui anos de trabalho em diversas áreas, desde o financeiro até vendas e documentação técnica. Tive a oportunidade de participar ativamente em licitações e projetos desafiadores que me ensinaram valiosas habilidades de trabalho em equipe e gestão.
+Sou um administrador com experiência em financeiro, vendas e documentação técnica. Participei de licitações e projetos desafiadores, aprendendo muito sobre trabalho em equipe e gestão.
 
-Recentemente, decidi embarcar em uma transição de carreira para o mundo da tecnologia. Costruindo uma base em HTML, CSS e JavaScript, estou dando os primeiros passos na criação de sites e no desenvolvimento web. A tecnologia é um campo em constante evolução, e estou entusiasmado em fazer parte dessa revolução.
+Recentemente, decidi mudar para a tecnologia, aprendendo HTML, CSS e JavaScript, e começando a desenvolver sites. Estou animado com as possibilidades dessa área em constante evolução.
 
-Minha experiência anterior me trouxe habilidades valiosas em organização, resolução de problemas e comunicação eficaz, que considero fundamentais no ambiente de tecnologia. Estou comprometido em aprender e crescer nessa jornada, aproveitando ao máximo as oportunidades que a tecnologia tem a oferecer.
+Minha experiência anterior me ensinou organização, resolução de problemas e comunicação eficaz. Estou comprometido em aprender e crescer nessa nova jornada.
 
-Estou empolgado com o desafio de combinar minha experiência anterior com minha paixão pela tecnologia para criar soluções inovadoras e impactantes.
+Combinar minha experiência com minha paixão pela tecnologia me entusiasma para criar soluções inovadoras e impactantes.
+
+Vamos nos conectar.
 
 
 
