@@ -3,7 +3,7 @@
 # 😄 Daniel de Oliveira
 
 <div style="display: flex; justify-content: center;">
-  <img align="right" alt="Developer GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG91cm1hajY5ZHpkcGJxZTA3NTFybzB4YjB1N25jb3FxejZhMHFmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="380" width="450" style="border-radius: 10px; overflow: hidden;">
+  <img align="right" alt="Developer GIF" src="https://github.com/danielcooder/danielcooder/blob/main/daniel.gif" height="380" width="600" >
 </div>
 
 
