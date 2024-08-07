@@ -3,7 +3,7 @@
 # 😄 Daniel de Oliveira
 
 <div style="display: flex; justify-content: center;">
-  <img align="right" alt="Developer GIF" src="https://github.com/danielcooder/danielcooder/blob/main/daniel.gif" height="380" width="600" >
+  <img align="right" alt="Developer GIF" src="https://github.com/danielcooder/danielcooder/blob/main/daniel.gif" height="380" width="550" >
 </div>
 
 
