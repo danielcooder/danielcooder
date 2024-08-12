@@ -25,9 +25,15 @@ Conecte-se comigo.
 </br>
 
 
+
+<div style="padding-top: 100px;">
+
 As Linguagens de Programação que estou trabalhando no momento são:
 
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,idea,html,css,js,nodejs,express,git,github,postgres,vscode,npm)](https://skillicons.dev)
+  <img src="https://github.com/danielcooder/danielcooder/raw/main/logosalesforce.png" alt="Salesforce Logo" width="128" height="128" />
+</div>
+
 
 </br>
 
