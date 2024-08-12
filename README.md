@@ -28,7 +28,7 @@ Conhecimentos em Salesforce
 <img src="https://github.com/danielcooder/danielcooder/raw/main/salesforce-conjunto.png" width="300" height="52" alt="Salesforce Logo">
 
 
-As Linguagens de Programação que estou trabalhando no momento são:
+As Linguagens de Programação que estou trabalhando no momento são
 
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,idea,html,css,js,nodejs,express,git,github,postgres,vscode,npm)](https://skillicons.dev)
 
@@ -38,7 +38,7 @@ As Linguagens de Programação que estou trabalhando no momento são:
 
 </br>
 
-Ferramentas:
+Ferramentas
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
