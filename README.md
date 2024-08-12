@@ -22,16 +22,18 @@ Conecte-se comigo.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/danielcooder/)
 [![Salesforce](https://img.shields.io/badge/Salesforce-000?style=for-the-badge&logo=salesforce&logoColor=0E76A8)](https://www.salesforce.com/https://www.salesforce.com/trailblazer/danieloliveirasantos)
 
-</br>
 
-<div style="padding-top: 100px;">
+Conhecimentos em Salesforce
+
+<img src="https://github.com/danielcooder/danielcooder/raw/main/salesforce-conjunto.png" width="300" height="52" alt="Salesforce Logo">
+
 
 As Linguagens de Programação que estou trabalhando no momento são:
 
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,idea,html,css,js,nodejs,express,git,github,postgres,vscode,npm)](https://skillicons.dev)
 
  
-</div>
+
 
 
 </br>
@@ -45,7 +47,6 @@ Ferramentas:
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
 
 
 <div style="display: flex; justify-content: center; gap: 20px;">
