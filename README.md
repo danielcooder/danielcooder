@@ -17,10 +17,10 @@ Combinar minha experiência com minha paixão pela tecnologia me entusiasma para
 
 Vamos nos conectar.
 
-Conecte-se comigo.
+Conecte-se comigo. </br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/danielcooder/)
-[![Salesforce](https://img.shields.io/badge/Salesforce-000?style=for-the-badge&logo=salesforce&logoColor=0E76A8)](https://www.salesforce.com/https://www.salesforce.com/trailblazer/danieloliveirasantos)
+[![Salesforce](https://img.shields.io/badge/Salesforce-000?style=for-the-badge&logo=salesforce&logoColor=0E76A8)](https://www.salesforce.com/https://www.salesforce.com/trailblazer/danieloliveirasantos) </br> </br>
 
 
 Conhecimentos em Salesforce
@@ -32,14 +32,11 @@ Conhecimentos em Salesforce
     </a>
 </div>
 
+</br>
 
 As Linguagens de Programação que estou trabalhando no momento são
 
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,idea,html,css,js,nodejs,express,git,github,postgres,vscode,npm)](https://skillicons.dev)
-
- 
-
-
 
 </br>
 
