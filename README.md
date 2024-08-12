@@ -3,19 +3,18 @@
 # 😄 Daniel de Oliveira
 
 <div style="display: flex; justify-content: center;">
-  <img align="right" alt="Developer GIF" src="https://github.com/danielcooder/danielcooder/blob/main/daniel.gif" height="380" width="550" >
+  <img align="right" alt="Developer GIF" src="https://github.com/danielcooder/danielcooder/blob/main/daniel.gif" height="330" width="550" >
 </div>
 
 
-Sou um administrador com experiência em financeiro, vendas e documentação técnica. Participei de licitações e projetos desafiadores, aprendendo muito sobre trabalho em equipe e gestão.
+Sou um administrador com experiência em financeiro, vendas e documentação técnica. Participei de licitações e projetos , 
+aprendendo muito sobre trabalho em equipe e gestão.
 
-Recentemente, decidi mudar para a tecnologia, aprendendo HTML, CSS e JavaScript, e começando a desenvolver sites. Estou animado com as possibilidades dessa área em constante evolução.
+Decidi mudar para a área de tecnologia, aprofundando meus estudos em Engenharia de Software, com foco no desenvolvimento. 
+Tenho experiência em Javascript, HTML5, CSS e Postgres, aprendendo atualmente sobre Java e Salesforce .
 
-Minha experiência anterior me ensinou organização, resolução de problemas e comunicação eficaz. Estou comprometido em aprender e crescer nessa nova jornada.
-
-Combinar minha experiência com minha paixão pela tecnologia me entusiasma para criar soluções inovadoras e impactantes.
-
-Vamos nos conectar.
+Minhas experiências anteriores me ensinaram organização, resolução de problemas e comunicação principalmente em equipes.
+Busco ampliar continuamente minhas competências técnicas.
 
 Conecte-se comigo. </br>
 
