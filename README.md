@@ -25,7 +25,12 @@ Conecte-se comigo.
 
 Conhecimentos em Salesforce
 
-<img src="https://github.com/danielcooder/danielcooder/raw/main/salesforce-conjunto.png" width="300" height="52" alt="Salesforce Logo">
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/danielcooder/danielcooder/blob/main/salesforce-conjunto.png" alt="Imagem de Salesforce" width="300" height="52" />
+    <a href="https://www.salesforce.com/trailblazer/danieloliveirasantos" target="_blank" style="margin-left: 10px;">
+    <img src="https://github.com/shaienne23/shaienne23/blob/main/Trailhead.png" alt="Trailhead" width="62" height="53" />
+    </a>
+</div>
 
 
 As Linguagens de Programação que estou trabalhando no momento são
