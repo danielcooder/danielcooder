@@ -35,7 +35,7 @@ Conhecimentos em Salesforce
 
 As Linguagens de Programação que estou trabalhando no momento são
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,idea,html,css,js,nodejs,express,git,github,postgres,vscode,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,idea,html,css,js,nodejs,express,git,github,postgres,vscode,npm,notion)](https://skillicons.dev)
 
 </br>
 
