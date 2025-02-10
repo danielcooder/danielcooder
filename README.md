@@ -35,7 +35,8 @@ Conhecimentos em Salesforce
 
 As Linguagens de Programação que estou trabalhando no momento são
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,idea,html,css,js,nodejs,express,git,github,postgres,vscode,npm,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,idea,html,css,figma,js,nodejs,express,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postgres,vscode,eclipse,npm,notion,spring,postman)](https://skillicons.dev)
 
 </br>
 
@@ -48,6 +49,7 @@ Ferramentas
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 
 
 <div style="display: flex; justify-content: center; gap: 20px;">
